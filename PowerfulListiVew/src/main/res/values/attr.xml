@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PowerfulListView">
+        <attr name="custom_header_view" format="reference"/>
+        <attr name="custom_footer_view" format="reference"/>
+        <attr name="not_item_background" format="reference"/>
+    </declare-styleable>
+</resources>
