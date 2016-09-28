@@ -18,12 +18,7 @@ package com.alex.demo;
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
-import android.view.LayoutInflater;
-import android.view.View;
-import android.view.ViewGroup;
-import android.widget.ArrayAdapter;
 
-import com.alex.R;
 import com.alex.powerfullistview.adapter.PowerfulAdapter;
 import com.alex.powerfullistview.holder.ViewHolder;
 import com.alex.powerfullistview.view.PowerfulListView;
